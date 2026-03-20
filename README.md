@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mugdho</h1>
+<h1 align="center">Hi 👋, I'm Md. Ahanaf Mohosen</h1>
 <h3 align="center">A passionate Software Engineering student focused on Data Science, Machine Learning, and backend development from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahanaf-mohosen&label=Profile%20views&color=0e75b6&style=flat" alt="ahanaf-mohosen" /> </p>
